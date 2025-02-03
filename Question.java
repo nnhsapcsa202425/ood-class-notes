@@ -54,6 +54,7 @@ public class Question
    /**
       Displays this question.
    */
+   @Override
    public String toString()
    {
       return this.text;
