@@ -61,7 +61,6 @@ public class FillInQuestion extends Question
          *      later override setAnswer, the overriden method would not be called.
          */
         this.setAnswer(answer);
-        
-                
+     
     }
 }
