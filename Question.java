@@ -1,5 +1,5 @@
 /**
-   A question with a text and an answer.
+   A question with a text and an answer.  Parent class from which ALL questions inherit.
 */
 public class Question
 {
